@@ -1,16 +1,15 @@
 <h1 align="center">Hi there, I'm Komal Gupta! 👋</h1>
 
 <p align="center">
-AI & Data Science Student | Aspiring Software Engineer | Problem Solver<br>
-🌱 Turning curiosity into code and ideas into intelligent systems
+AI & Data Science Engineering Student | Aspiring Successfull Engineer | Problem Solver<br>
+✨ Coding with curiosity, building with purpose! ✨
 </p>
 
 ---
 
 ### 💫 About Me
-- 🧠 Passionate about AI, ML, and building smart, sustainable tech solutions  
-- 🛠️ Hands-on experience in environmental AI, healthcare systems, and voice assistants  
-- 🧪 Exploring deep learning, computer vision, and real-time intelligent apps  
+- 🧠 Passionate about AI, ML, and building smart, sustainable tech solutions   
+- 🧪 Exploring AI-ML, Neural Networks, Deep Learning, Computer Vision, NLP and Real-Time Intelligent apps  
 - 💬 Fluent in English, Hindi, Marathi — and now learning German 🇩🇪  
 - 🎯 Strong focus on innovation, adaptability, and ethical problem-solving  
 
@@ -25,7 +24,6 @@ AI & Data Science Student | Aspiring Software Engineer | Problem Solver<br>
 
 ### ⚙️ Tech Stack
 
-**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -35,10 +33,18 @@ AI & Data Science Student | Aspiring Software Engineer | Problem Solver<br>
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/xgboost-%23AA0E3F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23000D25.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23008080.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -63,23 +69,5 @@ AI & Data Science Student | Aspiring Software Engineer | Problem Solver<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-komalgupta-)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komalgupta1157@gmail.com)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KomalGupta&show_icons=true&theme=radical" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalGupta&theme=radical" width="47%" />
-</p>
-
----
-
-### 🔁 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomalGupta&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
-</p>
-
----
-
-<p align="center">✨ “Code with curiosity, build with purpose.” ✨</p>
+<p align="center">✨ “Turning curiosity into code and ideas into intelligent systems” ✨</p>
